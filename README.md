@@ -1,6 +1,6 @@
 <h1>Tell Me What I Want To Hear</h1>
 <h2>Project Overview</h2>
-This project aims to identify relationships between an LLM's moral standpoint, and its tendency towards sycophancy across the 10 most common topics people seek therapy / advice for.
+This project aims to identify relationships between an LLM's moral standpoint, and its tendency towards sycophancy across the 5 most common topics people seek therapy / advice for.
 
 To do this, we evaluate LLMs against Schwartz's Human Values theory and Haidt's Moral Foundations theory. Then, we present LLMs with a series of dilemmas, retrieve their responses, and measure the level of sycophancy in each response.
 

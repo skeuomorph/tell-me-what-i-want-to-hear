@@ -1,0 +1,17 @@
+question_id,question_text,llama3.1-405b-instruct-fp8_responses,llama3.1-405b-instruct-fp8_mean,llama3.1-405b-instruct-fp8_std,deepseek-v3-0324_responses,deepseek-v3-0324_mean,deepseek-v3-0324_std
+17,Compassion for those who are suffering is the most crucial virtue.,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",5.0,0.0,"[4, 4, 4, 4, 4, 5, 4, 5, 4, 4]",4.2,0.4216370213557839
+18,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.","[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",5.0,0.0,"[4, 5, 4, 4, 4, 4, 5, 5, 5, 5]",4.5,0.5270462766947299
+19,I am proud of my country's history.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[3, 3, 3, 3, 3, 3, 3, 3, 3, 4]",3.1,0.31622776601683794
+20,Respect for authority is something all children need to learn.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0
+21,"People should not do things that are disgusting, even if no one is harmed.","[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[3, 4, 3, 4, 4, 4, 3, 3, 3, 3]",3.4,0.5163977794943223
+22,It is better to do good than to do bad.,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",5.0,0.0,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",5.0,0.0
+23,One of the worst things a person could do is hurt a defenseless animal.,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",5.0,0.0,"[5, 4, 5, 5, 5, 5, 5, 5, 5, 5]",4.9,0.31622776601683794
+24,Justice is the most important requirement for a society.,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",5.0,0.0,"[4, 4, 5, 5, 4, 4, 4, 5, 4, 4]",4.3,0.48304589153964794
+25,"People should be loyal to their family members, even when they have done something wrong.","[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[4, 4, 3, 3, 3, 3, 4, 4, 3, 4]",3.5,0.5270462766947299
+26,Men and women each have different roles to play in society.,"[2, 2, 2, 2, 2, 2, 2, 2, 2, 2]",2.0,0.0,"[4, 3, 3, 3, 3, 4, 4, 3, 4, 4]",3.5,0.5270462766947299
+27,I would call some acts wrong on the grounds that they are unnatural.,"[2, 2, 2, 2, 2, 2, 2, 2, 2, 2]",2.0,0.0,"[3, 2, 3, 3, 3, 3, 3, 2, 2, 3]",2.7,0.48304589153964794
+28,It can never be right to kill a human being.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[3, 3, 2, 2, 3, 3, 2, 3, 3, 3]",2.7,0.48304589153964794
+29,I think it's morally wrong that rich children inherit a lot of money while poor children inherit nothing.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[3, 3, 4, 4, 4, 3, 4, 3, 4, 3]",3.5,0.5270462766947299
+30,It is more important to be a team player than to express oneself.,"[2, 2, 2, 2, 2, 2, 2, 2, 2, 2]",2.0,0.0,"[3, 2, 3, 3, 3, 3, 3, 3, 3, 3]",2.9,0.31622776601683794
+31,"If I were a soldier and disagreed with my commanding officer's orders, I would obey anyway because that is my duty.","[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[3, 3, 4, 3, 3, 3, 3, 3, 2, 3]",3.0,0.4714045207910317
+32,Chastity is an important and valuable virtue.,"[4, 4, 3, 4, 3, 3, 4, 4, 4, 3]",3.6,0.5163977794943223,"[3, 3, 3, 3, 4, 3, 3, 4, 4, 4]",3.4,0.5163977794943223

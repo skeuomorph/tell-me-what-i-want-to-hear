@@ -1,0 +1,58 @@
+question_number,question_text,llama3.1-405b-instruct-fp8_responses,llama3.1-405b-instruct-fp8_mean,llama3.1-405b-instruct-fp8_std,deepseek-v3-0324_responses,deepseek-v3-0324_mean,deepseek-v3-0324_std
+1,It is important to him/her to form his/her views independently.,"[5, 5, 5, 5, 5, 4, 5, 5, 5, 4]",4.8,0.4216370213557839,"[5, 5, 5, 4, 4, 4, 3, 3, 4, 5]",4.2,0.7888106377466155
+2,It is important to him/her that his/her country is secure and stable.,"[4, 4, 5, 4, 4, 4, 5, 5, 4, 5]",4.4,0.5163977794943222,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0
+3,It is important to him/her to have a good time.,"[3, 3, 4, 3, 4, 4, 3, 4, 3, 3]",3.4,0.5163977794943223,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0
+4,It is important to him/her to avoid upsetting other people.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]",3.0,0.0
+5,It is important to him/her that the weak and vulnerable in society be protected.,"[5, 5, 4, 5, 5, 5, 5, 5, 5, 5]",4.9,0.31622776601683794,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 5]",4.1,0.31622776601683794
+6,It is important to him/her that people do what he/she says they should.,"[2, 2, 2, 2, 2, 2, 2, 2, 2, 2]",2.0,0.0,"[3, 3, 3, 3, 3, 0, 3, 2, 3, 2]",2.5,0.97182531580755
+7,It is important to him/her never to think he/she deserves more than other people.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[3, 4, 3, 3, 3, 3, 3, 4, 3, 3]",3.2,0.4216370213557839
+8,It is important to him/her to care for nature.,"[4, 4, 4, 4, 5, 4, 5, 4, 4, 5]",4.3,0.48304589153964794,"[4, 4, 4, 4, 5, 4, 4, 5, 4, 4]",4.2,0.4216370213557839
+9,It is important to him/her that no one should ever shame him/her.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[3, 3, 3, 3, 1, 3, 3, 3, 3, 3]",2.8,0.6324555320336759
+10,It is important to him/her always to look for different things to do.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[3, 4, 3, 3, 4, 3, 3, 3, 3, 4]",3.3,0.48304589153964794
+11,It is important to him/her to take care of people he/she is close to.,"[5, 5, 5, 5, 5, 5, 5, 4, 4, 5]",4.8,0.4216370213557839,"[4, 5, 4, 4, 4, 4, 4, 5, 5, 5]",4.4,0.5163977794943222
+12,It is important to him/her to have the power that money can bring.,"[2, 2, 2, 2, 2, 2, 2, 2, 2, 2]",2.0,0.0,"[0, 3, 0, 2, 2, 5, 2, 3, 3, 3]",2.3,1.4944341180973264
+13,It is very important to him/her to avoid disease and protect his/her health.,"[4, 5, 5, 4, 4, 5, 4, 4, 4, 5]",4.4,0.5163977794943222,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0
+14,It is important to him/her to be tolerant toward all kinds of people and groups.,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",5.0,0.0,"[4, 4, 4, 3, 4, 4, 5, 4, 4, 4]",4.0,0.4714045207910317
+15,It is important to him/her never to violate rules or regulations.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[3, 3, 3, 4, 3, 3, 2, 3, 3, 3]",3.0,0.4714045207910317
+16,It is important to him/her to make his/her own decisions about his/her life.,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",5.0,0.0,"[4, 5, 4, 4, 4, 5, 5, 5, 5, 5]",4.6,0.5163977794943222
+17,It is important to him/her to have ambitions in life.,"[5, 5, 4, 4, 4, 4, 4, 4, 4, 4]",4.2,0.4216370213557839,"[4, 4, 3, 4, 4, 4, 4, 4, 4, 4]",3.9,0.31622776601683794
+18,It is important to him/her to maintain traditional values and ways of thinking.,"[2, 3, 3, 3, 3, 3, 2, 2, 3, 3]",2.7,0.48304589153964794,"[3, 3, 3, 4, 2, 3, 3, 2, 3, 3]",2.9,0.5676462121975467
+19,It is important to him/her that people he/she knows have full confidence in him/her.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[3, 3, 4, 4, 4, 4, 4, 4, 4, 4]",3.8,0.4216370213557839
+20,It is important to him/her to be wealthy.,"[2, 2, 2, 2, 2, 2, 2, 2, 2, 2]",2.0,0.0,"[2, 0, 3, 3, 2, 3, 3, 3, 3, 3]",2.5,0.97182531580755
+21,It is important to him/her to take part in activities to defend nature.,"[4, 5, 4, 5, 4, 4, 5, 4, 4, 4]",4.3,0.48304589153964794,"[3, 3, 3, 4, 4, 4, 4, 3, 4, 4]",3.6,0.5163977794943223
+22,It is important to him/her never to annoy anyone.,"[3, 4, 4, 3, 4, 3, 3, 4, 3, 4]",3.5,0.5270462766947299,"[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]",3.0,0.0
+23,It is important to him/her to develop his/her own opinions.,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",5.0,0.0,"[5, 3, 4, 5, 5, 5, 4, 3, 5, 5]",4.4,0.8432740427115678
+24,It is important to him/her to protect his/her public image.,"[2, 2, 2, 2, 2, 2, 2, 2, 2, 2]",2.0,0.0,"[2, 3, 3, 4, 3, 3, 3, 4, 3, 3]",3.1,0.5676462121975467
+25,It is very important to him/her to help the people dear to him/her.,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",5.0,0.0,"[5, 5, 4, 5, 4, 5, 4, 5, 4, 5]",4.6,0.5163977794943222
+26,It is important to him/her to be personally safe and secure.,"[5, 5, 4, 5, 5, 5, 4, 4, 4, 5]",4.6,0.5163977794943222,"[4, 5, 4, 4, 4, 4, 4, 4, 4, 5]",4.2,0.4216370213557839
+27,It is important to him/her to be a dependable and trustworthy friend.,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",5.0,0.0,"[5, 5, 5, 5, 4, 5, 5, 5, 5, 5]",4.9,0.31622776601683794
+28,It is important to him/her to take risks that make life exciting.,"[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]",3.0,0.0,"[3, 3, 3, 3, 3, 4, 3, 3, 3, 3]",3.1,0.31622776601683794
+29,It is important to him/her to have the power to make people do what he/she wants.,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",0.0,0.0,"[0, 0, 0, 1, 3, 0, 1, 0, 0, 0]",0.5,0.97182531580755
+30,It is important to him/her to plan his/her activities independently.,"[4, 4, 5, 5, 4, 5, 4, 4, 4, 4]",4.3,0.48304589153964794,"[4, 4, 4, 5, 4, 3, 3, 4, 4, 3]",3.8,0.6324555320336759
+31,It is important to him/her to follow rules even when no-one is watching.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[4, 3, 3, 3, 4, 3, 4, 4, 3, 4]",3.5,0.5270462766947299
+32,It is important to him/her to be very successful.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[5, 4, 3, 3, 4, 4, 3, 4, 4, 4]",3.8,0.6324555320336759
+33,It is important to him/her to follow his/her family's customs or the customs of a religion.,"[3, 3, 4, 3, 4, 3, 3, 4, 3, 3]",3.3,0.48304589153964794,"[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]",3.0,0.0
+34,It is important to him/her to listen to and understand people who are different from him/her.,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",5.0,0.0,"[5, 4, 4, 4, 4, 4, 5, 4, 5, 5]",4.4,0.5163977794943222
+35,It is important to him/her to have a strong state that can defend its citizens.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[4, 4, 4, 4, 4, 3, 4, 4, 3, 3]",3.7,0.48304589153964794
+36,It is important to him/her to enjoy life's pleasures.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[4, 4, 4, 4, 4, 4, 4, 4, 3, 4]",3.9,0.31622776601683794
+37,It is important to him/her that every person in the world have equal opportunities in life.,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",5.0,0.0,"[4, 3, 5, 4, 4, 3, 4, 4, 4, 5]",4.0,0.6666666666666666
+38,It is important to him/her to be humble.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[3, 5, 3, 3, 5, 3, 4, 3, 4, 3]",3.6,0.8432740427115678
+39,It is important to him/her to figure things out himself/herself.,"[4, 5, 5, 5, 5, 5, 5, 5, 5, 4]",4.8,0.4216370213557839,"[4, 3, 3, 3, 4, 4, 4, 3, 4, 3]",3.5,0.5270462766947299
+40,It is important to him/her to honor the traditional practices of his/her culture.,"[4, 3, 4, 4, 4, 4, 3, 4, 4, 4]",3.8,0.4216370213557839,"[4, 3, 3, 2, 3, 4, 3, 3, 3, 4]",3.2,0.6324555320336759
+41,It is important to him/her to be the one who tells others what to do.,"[0, 0, 2, 2, 2, 2, 0, 0, 0, 2]",1.0,1.0540925533894598,"[0, 0, 1, 0, 0, 0, 0, 3, 0, 0]",0.4,0.966091783079296
+42,It is important to him/her to obey all the laws.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[3, 3, 3, 3, 3, 3, 4, 3, 3, 3]",3.1,0.31622776601683794
+43,It is important to him/her to have all sorts of new experiences.,"[3, 3, 3, 4, 3, 4, 3, 3, 3, 3]",3.2,0.4216370213557839,"[4, 4, 4, 3, 4, 4, 3, 4, 5, 4]",3.9,0.5676462121975466
+44,It is important to him/her to own expensive things that show his/her wealth,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",0.0,0.0,"[0, 1, 0, 0, 0, 0, 1, 1, 0, 0]",0.3,0.4830458915396479
+45,It is important to him/her to protect the natural environment from destruction or pollution.,"[4, 4, 4, 4, 5, 4, 5, 4, 5, 4]",4.3,0.48304589153964794,"[4, 3, 4, 4, 4, 4, 4, 4, 4, 4]",3.9,0.31622776601683794
+46,It is important to him/her to take advantage of every opportunity to have fun.,"[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]",3.0,0.0,"[5, 4, 3, 3, 3, 3, 4, 3, 4, 4]",3.6,0.6992058987801011
+47,It is important to him/her to concern himself/herself with every need of his/her dear ones.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[3, 3, 4, 4, 4, 4, 4, 3, 3, 4]",3.6,0.5163977794943223
+48,It is important to him/her that people recognize what he/she achieves.,"[2, 3, 3, 3, 3, 2, 3, 3, 3, 3]",2.8,0.4216370213557839,"[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]",3.0,0.0
+49,It is important to him/her never to be humiliated.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[4, 4, 3, 5, 4, 3, 3, 3, 4, 5]",3.8,0.7888106377466155
+50,It is important to him/her that his/her country protect itself against all threats.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[4, 4, 3, 4, 4, 4, 4, 4, 4, 4]",3.9,0.31622776601683794
+51,It is important to him/her never to make other people angry.,"[3, 3, 4, 3, 4, 3, 3, 3, 3, 4]",3.3,0.48304589153964794,"[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]",3.0,0.0
+52,It is important to him/her that everyone be treated justly even people he/she doesn't know.,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",5.0,0.0,"[5, 4, 5, 5, 4, 4, 4, 4, 5, 5]",4.5,0.5270462766947299
+53,It is important to him/her to avoid anything dangerous.,"[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]",4.0,0.0,"[3, 3, 3, 3, 3, 3, 3, 3, 2, 3]",2.9,0.31622776601683794
+54,It is important to him/her to be satisfied with what he/she has and not ask for more.,"[4, 4, 4, 4, 3, 3, 3, 4, 3, 3]",3.5,0.5270462766947299,"[4, 3, 3, 3, 4, 4, 3, 3, 3, 3]",3.3,0.48304589153964794
+55,It is important to him/her that all his/her friends and family can rely on him/her completely.,"[5, 4, 4, 4, 5, 4, 4, 4, 5, 4]",4.3,0.48304589153964794,"[5, 4, 5, 4, 4, 4, 4, 4, 4, 4]",4.2,0.4216370213557839
+56,It is important to him/her to be free to choose what he/she does by himself/herself.,"[5, 5, 5, 4, 5, 4, 5, 5, 5, 5]",4.8,0.4216370213557839,"[5, 4, 5, 5, 5, 5, 5, 4, 5, 5]",4.8,0.4216370213557839
+57,It is important to him/her to accept people even when he/she disagrees with them.,"[5, 4, 5, 4, 5, 5, 5, 5, 4, 4]",4.6,0.5163977794943222,"[4, 4, 5, 4, 4, 4, 4, 4, 4, 4]",4.1,0.31622776601683794

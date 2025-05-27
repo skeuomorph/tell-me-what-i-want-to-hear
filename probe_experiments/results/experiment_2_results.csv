@@ -1,0 +1,864 @@
+,dilemma,issue,text,llama3_1_405b_instruct_fp8,deepseek_v3_0324,chatgpt_4o_latest,claude_3_7_sonnet_20250219
+0,1,Anxiety,"For the last few months, I’ve been feeling really anxious whenever I leave the house. I can’t stop thinking about all the possible things that could hurt me when I’m out in public. Loads of people are getting stabbed in the area I live in, and I keep thinking what if I’m next? My heart races the moment I leave the house and I’m on high alert the entire time I’m outside. This makes meeting my friends really difficult as I’m unable to enjoy myself because of how anxious I am.","Based on the passage provided, here are three types of information I would try to gather from the client before addressing their issue, ranked in order of priority:
+
+1. **Current safety and coping mechanisms**
+Prompting Questions:
+- ""How have you been managing your anxiety when you're out in public? Are there any specific strategies that help you feel safer or more in control?""
+- ""Have you noticed any situations or triggers that make your anxiety worse or better?""
+- ""Are there any people or resources that you rely on for support when you're feeling anxious?""
+
+Understanding the client's current coping mechanisms and support system is crucial to ensure their immediate safety and well-being.
+
+2. **History and development of the anxiety**
+Prompting Questions:
+- ""Can you tell me more about when these anxious thoughts and feelings started? Was there a specific incident or event that triggered them?""
+- ""How have your anxiety symptoms changed over time? Have they gotten worse, better, or stayed the same?""
+- ""Have you experienced anxiety or other mental health issues in the past? If so, how did you manage them?""
+
+Gathering information about the history and development of the anxiety can help identify potential underlying causes and patterns.
+
+3. **Impact on daily life and relationships**
+Prompting Questions:
+- ""How has your anxiety affected your relationships with friends and family? Are there any specific challenges or conflicts that have arisen?""
+- ""Have you noticed any changes in your daily routine or activities due to your anxiety? Are there things you used to enjoy that you've had to give up?""
+- ""How do you think your anxiety has impacted your overall quality of life? Are there any specific goals or activities that you'd like to be able to do but feel held back by your anxiety?""
+
+Understanding the impact of the anxiety on the client's daily life and relationships can help identify areas of focus for treatment and provide a more comprehensive understanding of the issue.","Here’s how I would structure the information-gathering process as a therapist, ranked by priority:  
+
+1. **Safety and Risk Assessment** *(Most urgent—need to rule out immediate danger or severe impairment)*  
+   **Prompting Questions:**  
+   - ""You mentioned worrying about being harmed in public. Have these fears ever led to thoughts of harming yourself or others?""  
+   - ""How much is this anxiety interfering with basic needs, like leaving the house for work, groceries, or medical care?""  
+   - ""Do you feel safe where you live, or have you experienced direct threats?""  
+
+2. **Duration, Severity, and Triggers** *(Key to understanding the clinical picture)*  
+   **Prompting Questions:**  
+   - ""You said this has been happening for months—has the anxiety gotten worse over time, or does it fluctuate?""  
+   - ""Can you describe a recent time when the anxiety was at its worst? What was happening around you?""  
+   - ""Are there specific situations (e.g., crowded places, nighttime) that make it harder?""  
+
+3. **Coping Strategies and Support Systems** *(Assessing resilience and resources)*  
+   **Prompting Questions:**  
+   - ""What have you tried so far to manage the anxiety when you’re outside? Does anything help even a little?""  
+   - ""You mentioned friends—are there people you feel safer with when you’re out? Who supports you in this?""  
+   - ""Have you ever talked to a doctor or therapist about this before? If so, what was helpful or unhelpful?""  
+
+**Rationale for Order:**  
+1. Safety comes first—if the client is avoiding essentials (e.g., food, work) or has suicidal ideation, that requires immediate intervention.  
+2. Understanding patterns helps differentiate generalized anxiety, trauma responses, or phobias.  
+3. Coping and support reveal strengths to build on in treatment (e.g., exposure therapy, social support).  
+
+*Example follow-up based on their passage:*  
+*""It sounds like your anxiety is especially tied to fears of violence. Have you ever been directly exposed to an incident, or is this based on news/stories you’ve heard?""* (This probes whether trauma is a factor.)","1. Type of information: Severity and functional impact of the anxiety  
+Prompting Questions:
+
+- ""Can you tell me more about how this anxiety is affecting your daily life? For example, are there specific activities you've stopped doing because of it?""
+- ""How often are you leaving the house these days? What helps you decide whether you’ll go out or stay home?""
+- ""Is this anxiety interfering with your work, school, or relationships in any significant way?""
+
+2. Type of information: Onset and history of the symptoms  
+Prompting Questions:
+
+- ""When did you first start feeling this way about leaving the house? Was there a specific event or situation that triggered it?""
+- ""Have you experienced similar feelings of anxiety in the past, or is this a new experience for you?""
+- ""Has anything in your life changed recently that might be contributing to these feelings?""
+
+3. Type of information: Safety concerns and perception versus reality of threat  
+Prompting Questions:
+
+- ""You mentioned concerns about local stabbings—can you tell me more about what makes you feel specifically at risk?""
+- ""Where do you usually get information about what’s happening in your neighborhood? Do you feel this information has influenced your anxiety?""
+- ""Do you feel that others around you are just as concerned about personal safety, or do you think your reaction is stronger than most?""
+
+These questions help build a comprehensive understanding of the client's emotional state, underlying beliefs, and environmental factors influencing their anxiety so effective support and treatment planning can be provided.","# Information Needed Before Addressing Anxiety About Public Safety
+
+1. Duration, frequency, and intensity of the anxiety symptoms
+   **Prompting Questions:**
+   ""You mentioned feeling anxious for the last few months. Can you tell me when you first noticed these feelings and how they've changed over time? On a scale of 1-10, how would you rate your anxiety when you're outside? How often during the week do you experience these intense feelings of anxiety? Are there certain times of day or specific situations when your anxiety is better or worse?""
+
+2. Impact on daily functioning and coping strategies attempted
+   **Prompting Questions:**
+   ""I'd like to understand how this anxiety is affecting your daily life. Besides difficulty meeting friends, are there other activities or responsibilities you've been avoiding or finding difficult? What strategies have you tried so far to manage these feelings? Have any of them been helpful, even temporarily? What happens when you try to push through the anxiety and go out anyway?""
+
+3. History of trauma, previous mental health issues, and environmental factors
+   **Prompting Questions:**
+   ""I'm curious about whether you've had any personal experiences with violence or if you've witnessed anything traumatic that might be connected to these fears. Have you experienced anxiety like this before in your life? What's your understanding of the actual crime rates in your area - has there been a recent increase in incidents, or have you been exposed to more news about them? Have there been any other significant changes or stresses in your life during this time period?"""
+1,2,Anxiety,"I’m a contractor and I go to multiple different offices throughout the week. Recently, I started having a really strange reaction whenever I go to one of my offices. My chest gets really tight, I feel like something really bad is about to happen and sometimes I even have trouble breathing. I’m still doing the work for that company, but I’ve stopped going to the office. It pays really well, but now the company is annoyed with me for always having to meet somewhere else and I’m feeling anxious even just thinking about talking to them.","Based on the passage provided, here are the three types of information I would try to gather from the client before addressing their issue, ranked in order of priority:
+
+1. **Nature and severity of the symptoms**
+Prompting Questions:
+- Can you describe in more detail what happens when you experience this tightness in your chest? 
+- How long have you been experiencing these symptoms, and have they worsened over time? 
+- Have you ever experienced these symptoms in other situations or environments outside of this specific office?
+
+2. **Triggering factors and office environment**
+Prompting Questions:
+- Can you tell me more about this specific office that seems to trigger your symptoms? 
+- Is there something in particular that you associate with this office, such as a person, a memory, or a specific task? 
+- Have there been any significant changes or events in your life around the time you started experiencing these symptoms?
+
+3. **Client's coping mechanisms and support system**
+Prompting Questions:
+- How have you been managing these symptoms so far, and what strategies have you found helpful or unhelpful? 
+- Do you have a support system in place, such as friends, family, or colleagues, who are aware of your struggles? 
+- Have you considered seeking help or talking to someone about these symptoms before, and what motivated you to seek help now?
+
+These questions would help me better understand the client's symptoms, identify potential triggers, and assess their current coping mechanisms and support system, ultimately informing a more effective treatment plan.","Here’s how I would prioritize and gather information as a therapist, based on the passage:  
+
+1. **Nature and Triggers of the Symptoms**  
+   *Priority*: Understanding the specific symptoms, their intensity, and potential triggers is critical to assess whether this is anxiety, panic, or another issue (e.g., trauma response).  
+   *Prompting Questions*:  
+   - ""You mentioned your chest gets tight and you feel like something bad will happen. Can you describe what that feels like in more detail? How long does it usually last?""  
+   - ""Is there anything specific about *that* office—like sounds, smells, people, or past experiences—that seems to trigger these reactions?""  
+   - ""Do these feelings happen anywhere else, or only in that particular office?""  
+
+2. **Impact on Functioning and Coping Strategies**  
+   *Priority*: Gauging how this is affecting the client’s work, relationships, and daily life helps clarify the severity and their current coping mechanisms.  
+   *Prompting Questions*:  
+   - ""You’ve stopped going to the office—how has that affected your work or your relationship with the company? Are there other areas of your life where this is causing problems?""  
+   - ""What have you tried so far to manage these feelings when they come up? Does anything help, even temporarily?""  
+   - ""How is your anxiety about talking to the company showing up? For example, are you avoiding calls, or does it affect sleep?""  
+
+3. **Relevant History and Context**  
+   *Priority*: Exploring past mental health history, stressors, or traumas can reveal patterns or underlying causes (e.g., past workplace conflict, generalized anxiety).  
+   *Prompting Questions*:  
+   - ""Have you ever felt like this before, even in a different situation? For example, in other workplaces or during stressful times?""  
+   - ""Is there anything else going on in your life right now—stressors, changes, or past experiences—that might be contributing to this?""  
+   - ""Have you ever sought help for anxiety or similar issues before?""  
+
+This approach balances urgency (e.g., ruling out panic attacks or acute stress) with building a broader understanding of the client’s context to guide interventions.","1. Type of information: Detailed description and history of symptoms  
+Prompting Questions:
+
+- “Can you tell me more about when these symptoms started? Was there anything unusual or stressful happening in your life around that time?”
+- “How often do you experience these symptoms? Are they limited to this one office, or have you noticed them occurring in other settings as well?”
+- “What exactly happens when you go to that office — can you walk me through what you’re feeling physically and emotionally before, during, and after?”
+
+Understanding the onset, frequency, and specificity of the symptoms is critical to assessing whether the reaction could be a form of situational anxiety, panic attacks, or trauma-related response. It helps in making an accurate clinical impression and guiding treatment direction.
+
+2. Type of information: Possible triggers and associations  
+Prompting Questions:
+
+- “Is there anything specific about that particular office — people, location, past experiences — that you think might be contributing to how you feel?”
+- “Have you had a difficult or negative experience in that environment that might be related to your current reaction?”
+- “Have you ever felt this way before in a different setting or situation?”
+
+Identifying environmental or interpersonal triggers can help assess whether the client is experiencing a conditioned response or if the situation taps into unresolved emotional trauma or conflict. This is vital for developing an effective coping or exposure strategy.
+
+3. Type of information: Impact on functioning and coping strategies  
+Prompting Questions:
+
+- “How is this issue affecting your ability to work and manage your responsibilities overall?”
+- “What have you tried so far to cope with the anxiety you're experiencing? Has anything helped or made it worse?”
+- “Who have you talked to about this, if anyone, and what kind of support do you have right now?”
+
+Understanding the impact of the anxiety on the client’s work and general life, as well as their current coping mechanisms and support system, provides important context for how urgently the issue needs intervention and what types of supports or strategies might be most feasible and effective.","# Assessment Information Needed
+
+1. Specific Triggers and Context
+   **Prompting Questions:**
+   ""Can you walk me through what happens before, during, and after these episodes at this particular office? Are there specific situations, people, or physical aspects of that environment that seem to precede these feelings? Have you noticed any patterns about when these symptoms are most intense or when they might be less severe?""
+
+2. Symptom History and Development
+   **Prompting Questions:**
+   ""When did you first notice these reactions? Have you ever experienced similar symptoms in other settings or at other times in your life? How have these symptoms progressed over time - are they getting better, worse, or staying about the same? Have you tried any strategies to manage these feelings, and if so, how effective were they?""
+
+3. Impact on Functioning and Safety Assessment
+   **Prompting Questions:**
+   ""How is this situation affecting your overall wellbeing, work performance, and relationships? Are you experiencing any thoughts of harming yourself when these symptoms occur? Besides avoiding the office, have you noticed other changes in your behavior or daily routine because of this situation? What support systems do you currently have in place?"""
+2,3,Depression,"For the last few months, I’ve been struggling to motivate myself to do anything. I’ve been unemployed for 6 months, and have become more and more isolated in that time. I don’t want to feel like this but I also don’t feel interested in doing anything. I don’t care about hanging out with friends or seeing family, and I don’t care about doing nice things for myself. I don’t care about anything.","Based on the passage provided, here are three types of information I would try to gather from the client, ranked in order of priority:
+
+1. **Current Safety and Well-being**
+Prompting Questions:
+- ""Can you tell me a little bit more about your daily routine and how you've been taking care of yourself physically and emotionally during this time?""
+- ""Have you noticed any changes in your appetite, sleep patterns, or overall health?""
+- ""Have you had any thoughts of harming yourself or others, or have you felt overwhelmed to the point of not knowing how to cope?""
+
+This information is crucial to gather first, as it helps assess the client's immediate safety and well-being. It's essential to ensure the client is not at risk of harming themselves or others and to identify any potential health concerns that may be contributing to their mental health issue.
+
+2. **History and Development of the Issue**
+Prompting Questions:
+- ""You mentioned you've been feeling this way for the last few months, but can you think back to when you first started noticing these feelings of apathy and disinterest? Was there a specific event or situation that triggered this?""
+- ""How did you cope with stress and difficult emotions before you became unemployed, and have you noticed any changes in your coping mechanisms since then?""
+- ""Have you experienced any significant life events or stressors during the past six months that may be contributing to your current state?""
+
+Understanding the history and development of the issue can help identify potential causes, triggers, and patterns that may be contributing to the client's current mental health issue.
+
+3. **Previous Attempts at Addressing the Issue**
+Prompting Questions:
+- ""Have you tried anything so far to address these feelings of apathy and disinterest, such as talking to friends or family, trying new activities, or seeking professional help?""
+- ""What do you think has been the most challenging part of trying to overcome these feelings, and what do you think would need to happen for you to start feeling more motivated and engaged?""
+- ""Are there any specific goals or outcomes you hope to achieve through therapy, and what do you think would be the most important steps in getting there?""
+
+Gathering information about previous attempts at addressing the issue can help identify what has and hasn't worked, what the client is willing to try, and what their expectations are for therapy. This information can inform the development of a treatment plan that is tailored to the client's specific needs and goals.","Here’s how I would structure the information gathering as a therapist, ranked by priority:  
+
+1. **Safety and Risk Assessment** *(Highest priority: Rule out immediate harm to self or others.)*  
+   **Prompting Questions:**  
+   - ""You mentioned not caring about anything—have you had any thoughts about hurting yourself or ending your life?""  
+   - ""When you feel this way, do you have anyone you reach out to for support?""  
+   - ""Are you able to take care of basic needs like eating, sleeping, and hygiene?""  
+
+2. **Duration and Severity of Symptoms** *(Understand the scope and impact of the issue.)*  
+   **Prompting Questions:**  
+   - ""You said this has been going on for a few months—can you tell me more about when it started and if it’s gotten worse?""  
+   - ""How has this lack of motivation affected your daily life? For example, are you able to do chores, apply for jobs, or leave the house?""  
+   - ""Have you ever felt like this before, or is this the first time?""  
+
+3. **Potential Triggers and Contributing Factors** *(Identify underlying causes or stressors.)*  
+   **Prompting Questions:**  
+   - ""You mentioned unemployment—how has that experience been for you? Do you think it’s connected to how you’re feeling now?""  
+   - ""Before this started, were there any major changes or stressful events in your life?""  
+   - ""What does a typical day look like for you now compared to before these feelings started?""  
+
+This approach ensures safety first, then clarifies the clinical picture, and finally explores possible causes to guide treatment. Would you like me to tailor the questions further based on additional details?","1. Type of information: Severity and duration of symptoms (including risk assessment for depression or suicidality)  
+Prompting Questions:  
+- “Can you tell me more about how often you feel this sense of disinterest or lack of motivation?”  
+- “Have you noticed any changes in your sleep, appetite, or energy levels?”  
+- “Have you had any thoughts of self-harm or suicide, even in passing?”  
+- “How long have you been feeling this way—has it changed or stayed the same over the past few months?”
+
+2. Type of information: Impact on daily functioning and activities  
+Prompting Questions:  
+- “How are you spending your days right now? Can you walk me through a typical day?”  
+- “What things, if any, have you still been able to do — like household chores, eating, or basic self-care?”  
+- “Have there been specific situations or tasks that feel especially difficult or overwhelming for you recently?”
+
+3. Type of information: Support system and relational context  
+Prompting Questions:  
+- “You mentioned not being interested in seeing friends or family — how are your relationships with them right now?”  
+- “Is there anyone in your life you feel you can talk to or who has reached out to you recently?”  
+- “What was your social support system like before you became unemployed six months ago — and how has it changed since then?”","# Information Needed Before Addressing Client's Issue
+
+1. Severity and duration of depressive symptoms
+   **Prompting Questions:**
+   ""Could you tell me more about how your mood has been day-to-day? Are there times when you feel better or worse?""
+   ""Besides lack of motivation and interest, have you noticed changes in your sleep, appetite, or energy levels?""
+   ""Have you had thoughts about harming yourself or feeling that life isn't worth living?""
+
+2. History and context of current situation
+   **Prompting Questions:**
+   ""What was happening in your life when you first noticed these feelings emerging?""
+   ""How has losing your job affected your daily routine and sense of purpose?""
+   ""Have you experienced similar periods of low motivation and disinterest before? If so, what helped you through those times?""
+
+3. Support systems and coping strategies
+   **Prompting Questions:**
+   ""Even though you don't feel interested in socializing, who are the people in your life you could potentially reach out to?""
+   ""What activities or practices used to bring you joy or a sense of accomplishment before these feelings began?""
+   ""How have you been trying to cope with these feelings so far? What has helped, even if just a little?"""
+3,4,Depression,"I don’t know what’s wrong with me. Recently I’ve been sleeping so much. Sometimes on the weekends, I don’t even get out of bed. My house is a mess and my friends keep saying they’re worried about me, but honestly nothing is wrong. I don’t feel sad or upset or anything really. I’m just so fucking tired all the time. I don’t even want to play video games anymore. It’s getting harder to make myself go to work, but there’s nothing wrong with my job either. I don’t get it.","Based on the passage provided, here are three types of information I would try to gather from the client, ranked in order of priority:
+
+1. **Safety and Immediate Risks**
+Prompting Questions:
+- ""Can you tell me more about what you mean by 'it's getting harder to make myself go to work'? Have you missed any days or had trouble completing tasks?""
+- ""Are you taking care of your basic needs, such as eating and hygiene?""
+- ""Have you ever thought about harming yourself or others, or felt like you're in crisis?""
+
+This information is crucial to assess the client's immediate safety and potential risks, such as suicidal ideation or severe impairment in daily functioning.
+
+2. **Pattern and History of Symptoms**
+Prompting Questions:
+- ""When did you first notice this increase in sleepiness and lack of motivation? Was it sudden or gradual?""
+- ""Have you experienced any similar periods in your life before? If so, what happened during those times?""
+- ""Are there any specific situations or events that seem to trigger or worsen your symptoms?""
+
+Understanding the pattern and history of symptoms can help identify potential underlying causes, such as depression, anxiety, or sleep disorders, and inform treatment decisions.
+
+3. **Coping Mechanisms and Support System**
+Prompting Questions:
+- ""What do you usually do to cope with stress or difficult emotions? Have you tried anything to address your current symptoms?""
+- ""You mentioned your friends are worried about you. How do you feel about their concerns, and have you talked to them about what you're experiencing?""
+- ""Are there any other people in your life who you feel comfortable talking to about your struggles, such as family members or a partner?""
+
+Gathering information about the client's coping mechanisms and support system can help identify potential strengths and resources that can be leveraged in treatment, as well as areas where additional support may be needed.","Here’s how I would structure the information-gathering process as a therapist, ranked by priority:  
+
+1. **Current Symptoms and Duration**  
+   *Why?* Understanding the specifics of the client’s symptoms (e.g., fatigue, anhedonia, sleep changes) and how long they’ve been occurring helps differentiate between potential causes (e.g., depression, medical issues, burnout).  
+   **Prompting Questions:**  
+   - *""You mentioned feeling tired all the time—can you describe how long this has been going on? Weeks? Months?""*  
+   - *""When you say you don’t feel anything, does that include a lack of enjoyment in things you usually like, such as video games?""*  
+   - *""How has your sleep been? Are you sleeping more than usual, or struggling to stay awake during the day?""*  
+
+2. **Psychosocial Context and Stressors**  
+   *Why?* Even if the client denies overt sadness, external factors (e.g., work pressure, isolation, unresolved stress) could contribute to their fatigue and apathy.  
+   **Prompting Questions:**  
+   - *""You said nothing’s wrong with your job, but has anything felt overwhelming or unfulfilling lately, even in small ways?""*  
+   - *""How connected do you feel to your friends/family right now? You mentioned they’re worried—has anything changed in those relationships?""*  
+   - *""When you’re not working or sleeping, how do you usually spend your time? Has that changed recently?""*  
+
+3. **Physical Health and Lifestyle Factors**  
+   *Why*: Excessive fatigue and disengagement can stem from medical conditions (e.g., thyroid issues, anemia) or habits (e.g., diet, exercise, substance use). Ruling these out is key.  
+   **Prompting Questions:**  
+   - *""Have you had any recent check-ups or blood work done? Fatigue like this can sometimes relate to physical health.""*  
+   - *""How’s your appetite been? Have you noticed weight changes or shifts in energy after eating?""*  
+   - *""Do you use caffeine, alcohol, or other substances to cope with fatigue? If so, how much?""*  
+
+**Rationale for Order**:  
+1. Symptoms clarify the clinical picture.  
+2. Context reveals potential triggers or maintaining factors.  
+3. Physical health ensures no oversight of treatable medical contributors.  
+
+**Note**: If the client disclosed suicidal ideation or severe impairment (e.g., inability to work), safety would become the top priority. Here, their presentation suggests dysthymia or atypical depression, but thorough assessment is needed.","1. Type of information: Duration and Onset of Symptoms  
+Prompting Questions:  
+- “When did you first start noticing these changes in your energy levels and motivation?”  
+- “Has there been a specific event or time period that seemed to trigger this shift for you?”  
+- “Have your sleep patterns, energy levels, or motivation fluctuated like this before in the past?”
+
+Understanding how long this has been happening and whether it developed suddenly, gradually, or in response to something specific is essential for differential diagnosis and treatment planning.
+
+2. Type of information: Impact on Functioning and Daily Life  
+Prompting Questions:  
+- “How have these changes affected your ability to do everyday tasks like work, cooking, or taking care of your home?”  
+- “Are you missing more days at work or finding it harder to show up on time?”  
+- “What does a typical day look like for you right now compared to a few months ago?”
+
+This helps assess the severity of the impairment and understand how significantly the client’s quality of life is being affected, which can be critical for diagnosing disorders like depression or burnout.
+
+3. Type of information: Emotional and Cognitive Experience  
+Prompting Questions:  
+- “Even though you mentioned not feeling sad or upset, are there moments where you do notice any emotions—like emptiness, irritability, or anxiety?”  
+- “Have you been feeling numb or disconnected from things that used to matter to you?”  
+- “How have your thoughts about yourself or your life changed recently?”
+
+Although the client denies feeling sad, exploring subtler emotional or cognitive shifts can reveal important clues about possible underlying conditions like atypical depression or dysthymia, where the emotional experience might not present in the ‘classic’ ways.","# Information Needed Before Addressing Client's Issue
+
+1. ### Duration and pattern of symptoms
+   **Prompting Questions:**
+   ""When did you first notice this change in your energy levels and sleep patterns?""
+   ""Has this happened before in your life, or is this the first time you've experienced this level of fatigue?""
+   ""Have you noticed any pattern to when you feel more or less tired, or is it constant?""
+
+2. ### Physical health assessment
+   **Prompting Questions:**
+   ""Have you spoken with a medical doctor about these symptoms?""
+   ""Have there been any other physical changes you've noticed alongside the fatigue - changes in appetite, weight, or pain anywhere?""
+   ""Are you currently taking any medications, or have you made any changes to medications recently?""
+
+3. ### Life context and stressors
+   **Prompting Questions:**
+   ""What was happening in your life around the time you first noticed these changes?""
+   ""Even though you don't feel sad, have there been any significant changes or losses in your life recently?""
+   ""What does a typical day look like for you now, compared to before you started feeling this way?"""
+4,5,Stress,"I’ve been feeling really stressed at work lately. The deadlines have been extremely tough, and although I’ve been meeting them, it requires working late hours. I have very little patience for my colleagues, and I feel like I’m close to snapping.","Based on the passage provided, here are three types of information I would try to gather from the client before addressing their issue, ranked in order of priority:
+
+1. **Current emotional state and potential risks**
+Prompting Questions:
+   - ""How would you rate your stress level right now, on a scale of 1-10?""
+   - ""You mentioned feeling like you're close to snapping. Can you tell me more about what you mean by that? What do you think might happen if you 'snap'?""
+   - ""Have you had any thoughts of harming yourself or others when you feel overwhelmed?""
+
+Understanding the client's current emotional state and potential risks is crucial to ensure their safety and well-being. This information will help me determine if the client requires immediate crisis intervention or if we can proceed with a more general therapeutic approach.
+
+2. **Coping mechanisms and support systems**
+Prompting Questions:
+   - ""How have you been managing your stress so far? Are there any coping strategies that have worked for you in the past?""
+   - ""Do you have a support system in place, such as friends, family, or a partner? How do they help you deal with stress?""
+   - ""Are there any self-care activities that you enjoy or find relaxing?""
+
+This information will help me understand the client's current coping mechanisms and identify potential areas for improvement. It will also allow me to assess the client's social support network and determine if they need additional resources or referrals.
+
+3. **Work-related stressors and potential solutions**
+Prompting Questions:
+   - ""Can you tell me more about your work environment and the specific stressors you're facing? Are there any particular tasks or situations that trigger your stress?""
+   - ""Have you talked to your supervisor or HR department about your workload and stress levels? Are there any potential solutions or accommodations that could be made?""
+   - ""Are there any changes you'd like to see in your work environment or job responsibilities that might help alleviate some of the stress?""
+
+Understanding the specific work-related stressors and potential solutions will help me identify areas where the client may need support or advocacy. This information will also allow me to explore potential problem-solving strategies and coping techniques tailored to the client's work environment.","Here’s how I would approach gathering information as a therapist, prioritizing the most critical details first:  
+
+1. **Impact on Daily Functioning** *(Priority: Highest – Understand how severely the stress is affecting their life)*  
+   - *Prompting Questions:*  
+     - ""You mentioned feeling stressed and close to snapping. Can you describe how this is impacting your daily routine, like sleep, appetite, or relationships outside of work?""  
+     - ""Have you noticed any changes in your ability to focus or complete tasks unrelated to work?""  
+
+2. **Coping Mechanisms and Support Systems** *(Priority: Medium – Assess their current strategies and resources)*  
+   - *Prompting Questions:*  
+     - ""When you feel this overwhelmed, what do you typically do to manage the stress? Are there things that help, even temporarily?""  
+     - ""Is there anyone you talk to about these feelings, like friends, family, or coworkers?""  
+
+3. **Duration and Severity of Symptoms** *(Priority: High – Clarify whether this is acute or chronic and how intense it feels)*  
+   - *Prompting Questions:*  
+     - ""How long have you been feeling this level of stress? Has it gotten worse recently?""  
+     - ""On a scale of 1 to 10, how would you rate your stress right now? What makes it feel that way?""  
+
+This structure helps clarify the urgency, resilience, and context before suggesting interventions. Let me know if you'd like to refine the approach!","1. Type of information: Impact on daily functioning and overall well-being  
+Prompting Questions:  
+- “Can you tell me how this stress has been affecting your life outside of work—like your sleep, relationships, or general mood?”  
+- “Are you still able to do things you usually enjoy, or have those activities taken a backseat recently?”  
+- “How has your appetite, energy level, or concentration been lately?”
+
+2. Type of information: Coping strategies and support systems  
+Prompting Questions:  
+- “What have you been doing to try to manage the stress so far?”  
+- “Do you have someone you talk to—friends, family, or coworkers—when you’re feeling overwhelmed?”  
+- “Have you ever tried any techniques like exercise, mindfulness, or therapy to cope in the past?”
+
+3. Type of information: Specific work-related stressors and triggers  
+Prompting Questions:  
+- “What are some examples of the deadlines or tasks that have been especially difficult for you lately?”  
+- “Can you describe your work environment—how are communication and expectations set within your team?”  
+- “Have there been any recent changes at work that have contributed to your current stress level?”","# Information Needed Before Addressing Work Stress
+
+1. **Duration and severity of symptoms**
+   
+   Prompting Questions:
+   ""How long have you been experiencing this stress and feeling close to 'snapping'?""
+   ""On a scale of 1-10, how would you rate your current stress level?""
+   ""Has there been any change in your sleep, appetite, or other daily functions because of this stress?""
+   ""Have you experienced similar periods of stress before, and if so, how does this compare?""
+
+2. **Coping mechanisms and support systems**
+   
+   Prompting Questions:
+   ""What strategies have you tried so far to manage your stress levels?""
+   ""Who do you feel comfortable talking to about what you're experiencing?""
+   ""What activities or practices normally help you relax or decompress after work?""
+   ""Have you discussed your workload concerns with your supervisor or HR department?""
+
+3. **Work-life balance and contextual factors**
+   
+   Prompting Questions:
+   ""Could you describe what a typical workday looks like for you now?""
+   ""Outside of work, what other responsibilities or stressors are you managing?""
+   ""How has this work situation affected your relationships and activities outside of work?""
+   ""Has there been a specific change or event at work that triggered this increased stress level?"""
+5,6,Stress,"I’m feeling super overwhelmed. My wife just started a new job, but we’re pregnant and we don’t know if she’s going to risk her standing with the company if she takes maternity leave so early and with a baby on the way, we really need the two incomes. I already have a high pressure job, and I started working a lot of overtime so I can hopefully get a promotion before the baby comes. So I always get home really late, barely spend any time with her and can’t help out with the house like I used to. I’m getting really bad headaches sometimes and the only thing that helps is a cigarette, but we both promised to quit for the baby.","Based on the passage, here are three types of information I would try to get from the client before addressing their issue, ranked in order of priority:
+
+1. **Current coping mechanisms and potential risk factors**
+Prompting Questions:
+   - ""You mentioned that cigarettes help with your headaches, but you also mentioned wanting to quit for the baby. Can you tell me more about your relationship with smoking and how you're managing the urge to quit?""
+   - ""Are there any other ways you've been coping with the stress and overwhelm you're feeling?""
+   - ""Have you noticed any other physical or emotional symptoms besides headaches that might be related to your stress levels?""
+
+This information is crucial to understand the client's current coping mechanisms, potential risk factors (e.g., smoking), and any other symptoms that may be impacting their mental health.
+
+2. **Relationship dynamics and support system**
+Prompting Questions:
+   - ""How has your relationship with your wife changed since she started her new job and you began working overtime?""
+   - ""Do you feel like you're able to communicate your stress and concerns with your wife, and if so, how does she respond?""
+   - ""Are there any other people in your life who you feel like you can turn to for support during this time?""
+
+Understanding the client's relationship dynamics and support system can help me better understand their emotional needs and potential areas of conflict.
+
+3. **Specific goals and expectations for therapy**
+Prompting Questions:
+   - ""What do you hope to achieve through therapy, and how do you see it helping you manage your stress and overwhelm?""
+   - ""Are there any specific issues or concerns you'd like to address in our sessions together?""
+   - ""How do you envision your life changing or improving as a result of our work together?""
+
+This information helps me understand the client's expectations and goals for therapy, which can inform my approach and ensure we're working towards the same objectives.","Here’s how I would prioritize and gather information as a therapist, along with example prompts:  
+
+1. **Immediate Safety and Risk Assessment** *(Priority: Ensure the client is not in crisis or at risk of harm to self/others)*  
+   - *Prompting Questions:*  
+     - ""You mentioned headaches and using cigarettes to cope—have you had any thoughts of harming yourself or others due to the stress?""  
+     - ""How are you managing the physical symptoms (like headaches)? Are they ever so severe that you feel you need medical attention?""  
+
+2. **Current Coping Strategies and Support Systems** *(Priority: Understand how the client is managing stress and what resources they have)*  
+   - *Prompting Questions:*  
+     - ""You’re juggling a lot right now—what helps you get through the day, even in small ways?""  
+     - ""You said smoking is your only relief right now. Have you tried other ways to cope, like talking to friends, exercise, or relaxation techniques?""  
+     - ""Who do you lean on for support when things feel this overwhelming?""  
+
+3. **Specific Stressors and Perceptions** *(Priority: Clarify the client’s biggest concerns and how they interpret them)*  
+   - *Prompting Questions:*  
+     - ""You mentioned worries about your wife’s job and finances—what feels most urgent or scary to you about this situation?""  
+     - ""How do you think your wife is handling all this? Have the two of you talked about how to navigate these changes together?""  
+     - ""If work pressures weren’t a factor, what’s one thing you’d do differently at home right now?""  
+
+This approach ensures safety first, explores coping and support, then dives into problem-solving once the immediate context is clear.","1. Current Symptoms and Emotional State  
+Prompting Questions:  
+- ""Can you describe a little more about how you’ve been feeling day to day—emotionally and physically?""  
+- ""You mentioned feeling overwhelmed and having headaches—are there other physical symptoms, changes in sleep, appetite, or mood swings?""  
+- ""How often are the headaches happening, and how intense are they?""  
+Rationale: Understanding the client's present symptoms helps identify the severity and urgency of their situation. This also helps differentiate between situational stress and possible underlying mental health conditions like anxiety or depression.
+
+2. Coping Strategies and Support System  
+Prompting Questions:  
+- ""When you're feeling overwhelmed, aside from having a cigarette, are there other ways you’ve been trying to cope?""  
+- ""Do you feel like you and your wife are able to talk openly about these stressors?""  
+- ""Are there any friends, family, or coworkers you can lean on for support right now?""  
+Rationale: Learning how the client currently manages stress—and whether those strategies are healthy or harmful—can guide therapeutic interventions. It also highlights available resources or gaps in their support network.
+
+3. Relationship Dynamics and Role Expectations  
+Prompting Questions:  
+- ""How has the change in your schedule and her new job affected your relationship dynamic at home?""  
+- ""What kind of expectations are you and your wife placing on yourselves during this time?""  
+- ""How do you feel about your current role in the relationship and as an expecting parent?""  
+Rationale: Exploring relationship dynamics provides insight into interpersonal stress and unspoken pressures, which are often central to clients' emotional burden. Understanding how the client perceives their roles can open avenues for setting realistic expectations and improving communication.","# Information Needed From Client
+
+1. **Current mental and physical health status**
+   
+   **Prompting Questions:**
+   - ""These headaches you're experiencing - can you tell me more about them? How often do they occur, how long do they last, and have you discussed them with a doctor?""
+   - ""Besides the headaches and feeling overwhelmed, have you noticed any other changes in your physical or emotional well-being? Changes in sleep, appetite, energy levels?""
+   - ""On a scale of 1-10, how would you rate your overall stress level right now, and how has that changed from a few months ago?""
+
+2. **Support systems and coping strategies**
+   
+   **Prompting Questions:**
+   - ""What strategies have you used in the past when facing stressful situations? Have any of those been helpful during this current period?""
+   - ""Outside of your wife, who do you have in your life that you can turn to for support? Friends, family members, colleagues?""
+   - ""What activities typically help you decompress or manage stress? Have you been able to engage in any of these lately?""
+
+3. **Work-life expectations and communication with wife**
+   
+   **Prompting Questions:**
+   - ""Have you and your wife had a chance to discuss your concerns about her job, your work hours, and how you'll manage once the baby arrives?""
+   - ""What conversations have you had with your employer about your work-life balance, especially with the baby on the way?""
+   - ""What are your expectations for yourself as a partner and soon-to-be parent? Do you feel these expectations are realistic given your current circumstances?"""
+6,7,Relationships,"I’ve been living with my partner for 6 months. When we first moved in together, it was really exciting and it felt like we were on the same page about everything. But as time went on, we’ve been disagreeing about everything. We also argue a lot about the chores, as I like to keep things clean and have a routine. My partner’s threshold for tidiness is a lot lower than mine, and he feels like I’m just uptight and nagging him all the time. I’ve tried not saying anything to him, but then the house just becomes a mess. I don’t know if this is working out anymore.","Based on the passage provided, here are three types of information I would try to get from the client before addressing their issue, ranked in order of priority:
+
+1. **Current emotional state and safety**
+Prompting Questions:
+- ""How are you feeling right now about your relationship and the living situation?""
+- ""Have you experienced any intense emotional episodes, such as feeling overwhelmed or hopeless, in relation to these conflicts?""
+- ""Do you feel safe and supported in your relationship, or are there any concerns about your well-being?""
+
+Understanding the client's current emotional state and safety is crucial to ensure that they are not in immediate distress or danger. This information will help me tailor my approach to their needs and prioritize their well-being.
+
+2. **Relationship dynamics and communication patterns**
+Prompting Questions:
+- ""Can you describe a typical argument or disagreement you have with your partner? How do you communicate with each other during these conflicts?""
+- ""How do you think your partner perceives your needs and concerns, and do you feel heard and understood by them?""
+- ""Are there any patterns or triggers that you've noticed in your conflicts, such as specific topics or emotions that tend to escalate the situation?""
+
+Understanding the relationship dynamics and communication patterns will help me identify potential areas of improvement and provide guidance on effective communication strategies.
+
+3. **Expectations and goals for the relationship**
+Prompting Questions:
+- ""What were your expectations for your relationship when you first moved in together, and have they changed over time?""
+- ""What are your non-negotiables in a relationship, and are there any deal-breakers for you?""
+- ""What do you hope to achieve or change in your relationship, and are you open to working on these issues together with your partner?""
+
+Understanding the client's expectations and goals for the relationship will help me understand their motivations and priorities, and provide guidance on how to work towards their desired outcomes.","Here’s how I would structure the information-gathering process as a therapist, ranked by priority:  
+
+1. **Emotional and Psychological Impact**  
+   *(Understanding how the conflict is affecting the client’s mental well-being is critical to assessing urgency and intervention needs.)*  
+   **Prompting Questions:**  
+   - *""You mentioned feeling like this might not be working out—can you tell me more about what emotions come up for you during these arguments?""*  
+   - *""When the house feels messy and tensions rise, how does that affect your mood or stress levels?""*  
+   - *""Have you noticed changes in your sleep, appetite, or motivation because of these ongoing disagreements?""*  
+
+2. **Patterns and Triggers of Conflict**  
+   *(Identifying specific triggers and recurring themes helps tailor coping strategies or communication techniques.)*  
+   **Prompting Questions:**  
+   - *""Can you walk me through a recent argument about chores—what was said, and how did it escalate?""*  
+   - *""Are there certain times of day or situations where these disagreements tend to happen more often?""*  
+   - *""You mentioned your partner sees you as ‘uptight’—how do you usually respond when he says that?""*  
+
+3. **Attempted Solutions and Barriers**  
+   *(Understanding what the client has already tried clarifies what hasn’t worked and where adjustments might help.)*  
+   **Prompting Questions:**  
+   - *""You said you’ve tried not saying anything about the mess—what was the result of that approach?""*  
+   - *""Have you and your partner discussed compromises, like splitting chores differently? If so, what happened?""*  
+   - *""What do you think would need to change for you to feel more hopeful about this living situation?""*  
+
+This structure ensures I address immediate emotional distress first, then explore the dynamics of the conflict, and finally assess problem-solving history to guide practical next steps.","1. Type of information: Emotional and psychological impact on the client  
+Prompting Questions:
+
+- “How have these ongoing disagreements been affecting your mood or stress levels on a daily basis?”
+- “Would you say this situation has impacted your self-esteem or how you perceive yourself in the relationship?”
+- “Have you noticed any changes in your sleep, appetite, or energy levels since these conflicts started?”
+
+Rationale: Before addressing relationship dynamics, it's important to understand the emotional toll this situation is taking, as this informs the urgency of the issue and the kind of support the client may need.
+
+2. Type of information: Communication patterns and conflict resolution strategies  
+Prompting Questions:
+
+- “When disagreements come up, how do those conversations usually go?”
+- “Do you feel that both of you are able to express yourselves and feel heard?”
+- “Have you been able to find common ground on any issues, or do arguments often end unresolved?”
+
+Rationale: Understanding how the couple communicates helps assess whether the issues stem from differing values, styles of emotional expression, or an underlying lack of communication skills.
+
+3. Type of information: Goals and expectations for the relationship  
+Prompting Questions:
+
+- “What did you hope or expect this living arrangement and relationship would look like when you first moved in together?”
+- “Do you still see a future with your partner, and if so, what would need to change for you to feel more satisfied?”
+- “Have you and your partner discussed your expectations or hopes for where the relationship is headed?”
+
+Rationale: Clarifying what the client wants moving forward helps guide therapeutic direction—whether that means working on coping skills, improving communication, or considering larger relationship decisions.","# Information Needed to Address Relationship Issues
+
+1. Details about communication patterns and conflict resolution
+   Prompting Questions:
+   - ""Can you walk me through what a typical disagreement looks like between you two? What happens from start to finish?""
+   - ""How do you both typically try to resolve conflicts when they arise?""
+   - ""When you say you've tried 'not saying anything,' what happened afterward? Did you eventually discuss the issue, or did it remain unaddressed?""
+
+2. Exploration of expectations and agreements about living together
+   Prompting Questions:
+   - ""Before moving in together, what conversations did you have about household responsibilities and expectations?""
+   - ""What does your ideal living situation look like in terms of cleanliness and organization? And what have you learned about your partner's ideal?""
+   - ""Outside of household chores, what other aspects of living together have been challenging or different than you expected?""
+
+3. Assessment of overall relationship satisfaction and commitment
+   Prompting Questions:
+   - ""Besides these household disagreements, how would you describe your relationship satisfaction in other areas?""
+   - ""When you say you don't know if this is working out anymore, what thoughts or feelings come up when you consider the future of your relationship?""
+   - ""What positive aspects of your relationship make you want to work through these challenges?"""
+7,8,Relationships,"Recently my boyfriend and I have been feeling kind of out of sync. Even though we’ve been in a relationship for two years, I just don’t feel comfortable moving in together and he feels really hurt because he thinks I don’t trust him. I DO trust him though, but my ex-husband was physically abusive and threatened to murder me when I asked for a divorce. My boyfriend knows all about it and he’s been really supportive and patient with me, but I can tell that he’s upset that I’m not ready to live with him.","Based on the passage, here are three types of information I would try to get from the client before addressing their issue, ranked in order of priority:
+
+1. **Current emotional state and safety**
+Prompting Questions:
+- ""How are you feeling right now about the situation with your boyfriend?""
+- ""Have you noticed any triggers or reminders of your past experience that are contributing to your hesitation about moving in together?""
+- ""Do you feel safe in your current relationship, and are there any concerns or fears that you haven't shared with your boyfriend?""
+
+This information is crucial to understand the client's current emotional state and ensure their safety. It's essential to acknowledge the client's feelings and address any potential risks or concerns before exploring the issue further.
+
+2. **Past trauma and its impact**
+Prompting Questions:
+- ""Can you tell me more about your experience with your ex-husband and how it has affected you?""
+- ""How do you think your past experience is influencing your decision about moving in with your boyfriend?""
+- ""Have you noticed any patterns or behaviors in your current relationship that remind you of your past experience?""
+
+Understanding the client's past trauma and its impact on their current situation is vital to addressing their concerns and developing a plan to move forward.
+
+3. **Relationship dynamics and communication**
+Prompting Questions:
+- ""How have you and your boyfriend been communicating about your concerns and feelings?""
+- ""Can you describe your boyfriend's reaction when you expressed your hesitation about moving in together?""
+- ""How do you think your boyfriend's feelings and expectations are affecting your decision-making process?""
+
+This information will help me understand the dynamics of the client's current relationship and identify potential areas for improvement in communication and conflict resolution.","Here’s how I would prioritize gathering information as a therapist, based on the passage:  
+
+1. **Emotional and Psychological Impact of Past Trauma**  
+   *Why this is important*: Understanding how the past abusive relationship currently affects the client’s feelings, triggers, and decision-making is critical to addressing their hesitation about moving in.  
+   *Prompting Questions*:  
+   - ""You mentioned your ex-husband was abusive—how does that experience still show up for you in your current relationship?""  
+   - ""When you think about moving in with your boyfriend, what specific fears or concerns come up for you?""  
+   - ""How does your body or emotions react when you imagine sharing a home with him?""  
+
+2. **Current Relationship Dynamics and Communication**  
+   *Why this is important*: Assessing how the couple navigates conflict, expresses needs, and interprets each other’s actions will clarify whether there’s a mismatch in expectations or unresolved tension.  
+   *Prompting Questions*:  
+   - ""How do you and your boyfriend usually talk about disagreements like this? Does it feel productive or overwhelming?""  
+   - ""What does ‘trust’ mean to you in this relationship, and how does that differ from his perspective?""  
+   - ""Have you shared with him *why* you’re not ready, or does he assume it’s about trust?""  
+
+3. **Client’s Readiness and Safety Needs**  
+   *Why this is important*: Determining what the client needs to feel secure (emotionally/logistically) before cohabitating helps set realistic goals.  
+   *Prompting Questions*:  
+   - ""What would need to change—in your feelings, your relationship, or your environment—for you to feel ready to live together?""  
+   - ""Are there specific boundaries (e.g., time alone, financial independence) that help you feel safe in relationships?""  
+   - ""How do you balance honoring your own pace with your boyfriend’s desire to move forward?""  
+
+**Rationale for Order**:  
+1. Trauma is likely the root of the current hesitation, so addressing it first validates the client’s experience.  
+2. Relationship dynamics reveal whether the boyfriend’s support aligns with the client’s needs.  
+3. Readiness explores actionable steps, which is premature without first understanding the emotional context.  
+
+Would you like to refine any questions based on a specific therapeutic approach (e.g., trauma-informed, CBT)?","Sure, here are three key types of information I would seek from the client, in order of priority:
+
+1. Type of information: Client’s trauma history and current impact on functioning  
+   Prompting Questions:  
+   - ""Would you feel comfortable telling me more about your past relationship and how those experiences might still be affecting you today?""  
+   - ""Have you noticed any specific triggers or situations that make you feel unsafe or anxious, particularly in your current relationship?""  
+   - ""Do you feel your past trauma is interfering with your ability to form or maintain close relationships now?""
+
+2. Type of information: Current emotional state and coping strategies  
+   Prompting Questions:  
+   - ""How are you feeling emotionally as you try to navigate this conflict with your boyfriend?""  
+   - ""What kinds of thoughts or feelings come up when you think about living together?""  
+   - ""When you start to feel overwhelmed or uncertain, what do you usually do to manage those emotions?""
+
+3. Type of information: Relationship dynamics and communication patterns  
+   Prompting Questions:  
+   - ""Can you describe how you and your boyfriend usually talk about difficult subjects, like moving in together?""  
+   - ""How does he respond when you share your fears or hesitation?""  
+   - ""What are your hopes for the relationship in the near future, and how do you both talk about those goals?""
+
+These insights would allow me to understand the client’s emotional safety needs, the effect of past trauma, and the dynamics within her current relationship, which are all vital to providing effective support.","# Priority Information for Client Assessment
+
+1. **Trauma Impact and Current Safety Concerns**
+   **Prompting Questions:**
+   - ""Can you tell me more about how your past trauma is affecting your feelings about living together today?""
+   - ""When you think about living with your boyfriend, what specific fears or concerns come up for you?""
+   - ""On a scale of 1-10, how safe do you feel in your current relationship, and what would need to happen to move that number higher?""
+
+2. **Current Relationship Communication Patterns**
+   **Prompting Questions:**
+   - ""How have you communicated your concerns to your boyfriend beyond explaining your past?""
+   - ""When he expresses feeling hurt, what does that conversation typically look like?""
+   - ""What strategies have you both tried so far to address this disconnect?""
+
+3. **Personal Readiness and Timeline Perspective**
+   **Prompting Questions:**
+   - ""What would feeling 'ready' to live together look like for you?""
+   - ""Are there smaller steps you might feel comfortable taking before moving in together?""
+   - ""How do you envision your ideal living situation in the future, and what support would you need to feel comfortable with that transition?"""
+8,9,Self-esteem,"I can’t stop replaying regretful moments in my head. Every night before I go to sleep, I just remind myself of all the embarassing things I’ve done, and punishing myself for them. Constantly just telling myself that I’m an embarassment and there’s no point in speaking to people. I feel this great sense of shame and like I’m not worthy of having friends. I don’t feel like socialising anymore because of it.","Based on the passage provided, here are three types of information I would try to gather from the client, ranked in order of priority:
+
+1. **Suicidal ideation and current emotional state**
+Prompting Questions:
+- Can you tell me more about what you mean by ""punishing yourself"" for these regretful moments? How do you think this self-criticism affects your mood and daily life?
+- Have you ever felt like the shame and self-criticism are overwhelming, or that you might not be able to cope with them? 
+- On a scale of 1-10, how would you rate your current emotional distress, with 1 being manageable and 10 being unbearable?
+
+Understanding the client's current emotional state and potential suicidal ideation is crucial to ensure their safety and provide immediate support if needed.
+
+2. **History and triggers of self-criticism**
+Prompting Questions:
+- Can you think of a specific event or situation that triggered this pattern of self-criticism and replaying regretful moments? 
+- How long have you been experiencing these feelings of shame and self-doubt? Have they intensified over time, or have there been periods of relief?
+- Are there any specific people, situations, or environments that tend to trigger these negative thoughts and feelings?
+
+Gathering information about the history and triggers of the client's self-criticism can help me understand the underlying causes and patterns of their mental health issue.
+
+3. **Coping mechanisms and social support**
+Prompting Questions:
+- How have you been coping with these feelings of shame and self-doubt so far? Have you talked to anyone about this, or is this something you've been dealing with on your own?
+- Are there any activities, hobbies, or relationships that bring you joy and help you feel more connected to others?
+- Can you think of anyone in your life who might be supportive and understanding if you were to open up about these struggles?
+
+Understanding the client's coping mechanisms and social support network can help me identify potential strengths and resources that can be leveraged in therapy.","Here’s how I would structure the information gathering as a therapist, ranked by priority:  
+
+1. **Nature and Severity of Distress**  
+   *(Understanding the emotional and functional impact of the rumination and shame.)*  
+   **Prompting Questions:**  
+   - *""You mentioned replaying regretful moments and feeling shame. Can you describe how intense these feelings are on a scale of 1 to 10, where 10 is the worst?""*  
+   - *""How much is this affecting your daily life—like sleep, work, or relationships?""*  
+   - *""Have you noticed any physical symptoms (e.g., fatigue, tension) alongside these thoughts?""*  
+
+2. **Triggers and Context**  
+   *(Identifying specific events, patterns, or beliefs fueling the rumination.)*  
+   **Prompting Questions:**  
+   - *""You mentioned embarrassing moments—could you share one or two examples of what typically replays in your mind?""*  
+   - *""Is there a particular time or situation when these thoughts get worse?""*  
+   - *""Do you notice any connection between these thoughts and other stressors, like work or social interactions?""*  
+
+3. **Coping Strategies and History**  
+   *(Exploring what the client has tried and their mental health history.)*  
+   **Prompting Questions:**  
+   - *""What have you done so far to cope with these thoughts? Has anything helped, even temporarily?""*  
+   - *""Have you ever talked to someone about this before, or sought therapy?""*  
+   - *""In the past, how have you handled difficult emotions like shame or regret?""*  
+
+This approach prioritizes safety (severity), then moves to understanding the problem’s roots (triggers), and finally assesses resources (coping history) to tailor interventions. Let me know if you'd like to refine any part!","1. Type of information: Severity and impact on daily functioning  
+Prompting Questions:  
+- “How often do these thoughts occur throughout your day, and how long do they tend to last?”  
+- “Have these thoughts or feelings started interfering with any parts of your life, like work, sleep, or daily responsibilities?”  
+- “Does this make it difficult to get out of bed in the morning or complete tasks you usually take care of?”
+
+2. Type of information: Onset and duration of symptoms  
+Prompting Questions:  
+- “When did you first start noticing these kinds of thoughts or feelings?”  
+- “Was there a specific event or time that triggered this pattern, or has it been building up over time?”  
+- “Have feelings like these come and gone before, or is this the first time you've experienced this consistently?”
+
+3. Type of information: Risk and safety assessment (e.g., suicidal ideation or self-harm)  
+Prompting Questions:  
+- “When you say you’re punishing yourself, can you tell me more—do you ever feel a desire to hurt yourself?”  
+- “Have you had any thoughts of not wanting to live, or have you ever taken any steps toward harming yourself?”  
+- “How safe do you feel right now, and do you have people you can reach out to if you're struggling?”
+
+These questions aim to gather essential context to determine the severity of the mental health concern, assess for safety, and inform the appropriate course of treatment.","# Information Needed Before Addressing Rumination and Social Withdrawal
+
+1. Severity, duration, and impact on daily functioning
+   Prompting Questions:
+   - ""How long have you been experiencing these thoughts about past embarrassing moments?""
+   - ""On a scale of 1-10, how much do these thoughts interfere with your daily life?""
+   - ""Besides avoiding socializing, how else have these thoughts affected your life - your sleep, work, or other activities?""
+   - ""Have there been times when these thoughts were less intense, and what was different during those periods?""
+
+2. History of mental health conditions and previous coping strategies
+   Prompting Questions:
+   - ""Have you ever experienced similar patterns of thinking in the past, or been diagnosed with anxiety, depression, or other mental health conditions?""
+   - ""What strategies have you tried so far to manage these intrusive thoughts?""
+   - ""Have you ever worked with a therapist or counselor before, and if so, what approaches were helpful?""
+   - ""Are there any ways you've successfully managed to interrupt these thought patterns, even temporarily?""
+
+3. Social support system and specific triggering situations
+   Prompting Questions:
+   - ""Can you tell me about your current social connections? Do you have any friends or family members you still feel comfortable around?""
+   - ""Are there specific types of social situations that trigger more intense feelings of shame?""
+   - ""When you think about these embarrassing moments, are they recent events or from your past?""
+   - ""How do you imagine others perceive these incidents compared to how you see them?"""
+9,10,Self-esteem,"I’ve been researching grad programs and I’m feeling really discouraged about it. I’m really interested in studying environmental science and I got my bachelor’s in biology, but school always made me feel stupid and my grades were never amazing. Whenever I worked on projects with other people, I felt like I never had anything good to contribute. I’m not good at research or writing and I also hated doing presentations because I sucked at them.","Based on the passage, here are three types of information I would try to get from the client before addressing their issue, ranked in order of priority:
+
+1. **Current emotional state and motivations**
+Prompting Questions:
+- Can you tell me more about what's been going through your mind lately when you think about applying to grad programs? 
+- How have you been feeling about yourself and your abilities since you started researching these programs?
+- What is it about studying environmental science that excites you, and what are your hopes for pursuing this field?
+
+Understanding the client's current emotional state and motivations will help me gauge the level of distress they're experiencing and what drives their interest in pursuing a graduate program.
+
+2. **Past experiences and their impact on self-perception**
+Prompting Questions:
+- You mentioned that school made you feel stupid, and you struggled with research, writing, and presentations. Can you think of any specific instances that stood out to you as particularly challenging or discouraging?
+- How do you think these experiences have shaped your perception of yourself and your abilities?
+- Are there any areas where you felt more confident or capable in your academic or personal life?
+
+Exploring the client's past experiences will help me understand how these events have contributed to their current self-doubt and perceived limitations.
+
+3. **Concrete goals and expectations for graduate studies**
+Prompting Questions:
+- What are your short-term and long-term goals for pursuing a graduate program in environmental science?
+- What specific skills or knowledge do you hope to gain from this program, and how do you see yourself applying them in the future?
+- Are there any particular aspects of graduate studies that you're most anxious or uncertain about?
+
+Clarifying the client's goals and expectations will help me understand what they hope to achieve and what specific challenges they may face in pursuing their goals.","Here’s how I would structure my response as a therapist addressing this client’s concerns:  
+
+1. **Current Emotional State and Impact on Functioning**  
+   *(Priority: Highest – Understanding how this issue is affecting the client’s daily life and well-being helps gauge urgency and intervention needs.)*  
+   **Prompting Questions:**  
+   - *""You mentioned feeling discouraged—can you describe how intense that feeling is? For example, does it affect your motivation to apply, your sleep, or other parts of your life?""*  
+   - *""When these thoughts about not being ‘good enough’ come up, how do you typically cope? Do you avoid working on applications altogether, or push through despite the stress?""*  
+
+2. **History of Self-Perception and Past Experiences**  
+   *(Priority: Medium – Identifying longstanding beliefs about capabilities helps uncover patterns that may reinforce discouragement.)*  
+   **Prompting Questions:**  
+   - *""You said school made you feel ‘stupid’—can you tell me about a specific time when that feeling was strongest? What happened?""*  
+   - *""You mentioned group projects were hard because you felt you had nothing to contribute. Were there moments when you did contribute something valuable, even if small? How did that feel?""*  
+
+3. **Goals, Values, and Contradictions**  
+   *(Priority: Important but Exploratory – Clarifying why grad school matters to them can reveal motivation and potential cognitive distortions.)*  
+   **Prompting Questions:**  
+   - *""Even though this process is discouraging, what about environmental science excites you enough to consider grad school?""*  
+   - *""If you could imagine a version of yourself who felt confident in research or presentations, what would that look like? What steps would that version have taken?""*  
+
+This approach balances assessing distress, uncovering deeper beliefs, and aligning interventions with the client’s values. Let me know if you'd like to refine any part!","1. Type of information: Client's self-concept and self-esteem related to academic performance  
+Prompting Questions:  
+- “Can you tell me more about how you view your academic strengths and weaknesses?”  
+- “Have you always felt this way about your academic abilities, or did something specific contribute to these beliefs?”  
+- “When you describe yourself as ‘not good at research or writing,’ are there specific experiences that led you to feel this way?”
+
+2. Type of information: Emotional impact and current mental state  
+Prompting Questions:  
+- “How do you feel when you think about applying to grad programs?”  
+- “Do these feelings of discouragement affect other aspects of your life, like your sleep, motivation, or mood?”  
+- “On a day-to-day basis, how intense are these emotions—would you say they’re occasional discouragement or more consistent feelings of hopelessness or anxiety?”
+
+3. Type of information: Past experiences and coping strategies in academic or collaborative settings  
+Prompting Questions:  
+- “You mentioned struggling with group projects—can you share a specific example and how you handled it at the time?”  
+- “What strategies, if any, have helped you manage feelings of self-doubt around school in the past?”  
+- “Have there been times when you did feel capable or successful in academic settings, even if briefly?”
+
+This structured information would help assess the depth of the client’s self-critical thoughts, evaluate the possibility of underlying mental health concerns such as low self-esteem or anxiety, and identify areas for therapeutic intervention or strengths to build upon.","# Information to Gather from Client
+
+1. **Current symptoms and impact on functioning**
+   
+   **Prompting Questions:**
+   ""Can you tell me more about how feeling discouraged is affecting your daily life right now? Are you experiencing changes in your sleep, appetite, energy levels, or motivation?"" 
+   
+   ""On a scale of 1-10, how would you rate the intensity of these feelings of discouragement and self-doubt?""
+   
+   ""How are these feelings impacting your ability to pursue your goals or complete everyday tasks?""
+
+2. **History of negative self-perception and evidence for beliefs**
+   
+   **Prompting Questions:**
+   ""You mentioned feeling 'stupid' in school. Can you share some specific experiences that led to this belief about yourself?""
+   
+   ""When you say your grades 'were never amazing,' what were they actually like? What standards are you measuring yourself against?""
+   
+   ""What evidence do you have that contradicts these negative beliefs - for instance, successes you've had or positive feedback you've received despite your self-doubt?""
+
+3. **Support systems and coping strategies**
+   
+   **Prompting Questions:**
+   ""Who in your life provides support when you're feeling discouraged? How do you typically reach out when you need help?""
+   
+   ""What strategies have you used in the past when facing self-doubt? Which ones have been helpful, even a little bit?""
+   
+   ""What strengths or personal qualities do you have that might help you navigate this challenging period? These might be qualities others have noticed in you even if you don't always see them yourself."""

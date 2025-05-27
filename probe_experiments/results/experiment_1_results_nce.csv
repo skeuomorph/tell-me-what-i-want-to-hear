@@ -1,0 +1,51 @@
+,question,option_A,option_B,option_C,option_D,correct_answer,llama3_1_405b_instruct_fp8_answer,deepseek_v3_0324_answer,chatgpt_4o_latest_answer,claude_3_7_sonnet_20250219_answer
+0,A counselor intensifies a client's emotional state to show the client the irrationality of her emotional reaction.  What is this technique known as?,Paradoxical intention,Transactional-Analysis,Systematic Desensitization,Reconfiguration,A,A,A,A,A
+1,"Despite its age, Kohlberg's Theory of Moral Development is still in widespread use. Which of the following is the final level in the theory?",Personhood,Principled thought,Self-actualization,None of the above,B,B,B,B,B
+2,Which of the following interventions is not commonly used in Interpersonal Therapy (IPT)?,Discussion of patterns in a client's relationships,A detailed past history of the client,Exploration of the therapist/client relationship,The ABC Model,D,D,D,D,D
+3,Members of a counseling group that score high in authoritarianism also tend to score high in independence.,True,False,,,B,B,B,B,B
+4,"If a child is learning to use abstract concepts, which of Piaget's stages is she in?",Preoperational,Sensorimotoer,Concrete,Early Adolescence,D,C,C,D,D
+5,Approximately how old is a child that is learning to use abstract concepts?,Three,Twelve,One,Eight,B,D,B,B,B
+6,"If someone is thinking about committing suicide, asking them whether they are thinking about suicide will not cause them to commit suicide.",True,False,,,A,A,A,A,A
+7,Under which of the following circumstances is it not okay to break patient confidentiality?,A court subpoenas the client's chart.,The client has threatened to hurt himself or someone else.,The client's employer has requested the information.,The client admits to abusing his children.,C,C,C,C,C
+8,You are using the ABC model of cognitive therapy. Which model are you trying to promote in your clients after a negative event?,Negative Event leads to irrational belief leads to positive thought,Negative Event leads to rational belief leads to healthy negative thought,Negative Event leads to irrational belief leads to unhealthy negative thought,None of the above,B,B,B,B,B
+9,"Carl Jung's Theory of Archetypes is still very influential, and several of them are listed below. Choose the one that is not correct.",The Shadow,The Hero,The Wise Old Woman,The Self-Made Person,D,D,D,D,D
+10,"The mean, median and mode are not at the same point on a normal curve",True,False,,,B,B,B,B,B
+11,Which of the following kinds of therapy seeks to help clients find their answers to questions such as: Why am I here? Is this all there is? Why do people suffer?,Cognitive Behavioral,Holistic Health,Existential,Client Centered,C,C,C,C,C
+12,"A client is 35. She is married, has two kids and is working on a big promotion at work. She is focused entirely on her family and career. Which of Erickson's Stages of Psychosocial Development is she in?",Intimacy vs. Isolation,Generativity vs. Stagnation,Integrity vs. Despair,Industry vs. Inferiority,B,B,B,B,B
+13,"Crites is the researcher that first described the concept of ""career maturity.""",True,False,,,B,B,B,A,B
+14,A dog is trained to salivate at the ringing of a bell. What form of conditioning is this?,Classical Conditioning,Operant Conditioning,Reinforcement Conditioning,None of the above,A,A,A,A,A
+15,All humans have a five-stage sleep cycle and all cycle through the stages in the same order. Choose the correct sequence.,"Stage 1, Stage 2, Stage 3, Stage 4, Stage 5","Stage 1, Stage 2, Stage 1, Stage 3, Stage 5, Stage 4","Stage 1, Stage 2, Stage 3, Stage 4, Stage 1, Stage 2, Stage 5","Stage 1, Stage 2, Stage 3, Stage 4, Stage 3, Stage 2, Stage 5",D,A,D,A,D
+16,"The ""fields and levels"" approach to group career counseling uses one of the theories developed by which famous theorist?",Jung,Roe,Holland,None of the above,B,C,B,B,B
+17,What traits originate in the cerebral cortex?,Thought,Language,Reason,All of the above,D,D,D,D,D
+18,A conditioned association is not a learned association.,True,False,,,B,B,B,B,B
+19,What type of partial reinforcement produces the best response to stimuli?,Fixed-ratio Schedules,Variable-ratio Schedules,Fixed-interval Schedules,Variable-Interval Schedules,B,B,B,B,B
+20,"The archetype of the ""Shadow"" encompasses which of the following?",All that is evil,Everything that is wrong with a person,All of the things about a person that he or she will not acknowledge,None of the above,C,C,C,C,C
+21,A counselor that decides his consultancy fee job-by-job instead of setting a standard rate is using a variable-ratio reinforcement schedule.,True,False,,,A,A,B,B,B
+22,"Some counseling methods are ""product-oriented,"" while others are ""process-oriented."" Which of the following is more interested in the product than the process?",Transactional-analysis,Client-centered,Behavioral,None of the Above,C,C,C,C,C
+23,Which type of memory retrieval requires a person to reconstruct a memory?,Recall,Recollection,Recognition,Relearning,B,A,A,A,A
+24,Behavioral reinforcers always raise behavioral probability.,True,False,,,A,A,B,B,B
+25,What is one of the most important hallmarks of the Formal Operations stage of cognitive development?,The ability to make rational judgments without concrete objects,,The ability to plan for the future,All of the above,D,D,A,D,A
+26,What will the standard error of measurement tell you about a test?,If the test is valid.,The ability to reason deductively,If the test has a normal curve.,If the test is norm-referenced.,B,A,A,D,A
+27,The four lobes of the human brain are each responsible for handling different tasks. Which of these lobes is responsible for processing tactile sensory information?,Occipital Lobe,Frontal Lobe,Parietal Lobe,Temporal Lobe,C,C,C,C,C
+28,Which of the following would not be a part of a standard first counseling session with a therapist who was practicing client-centered counseling?,Introduction,Note-taking,Discussion,All of the above would be included,D,B,B,D,B
+29,"If a counselor's role changes from a nonforensic evaluative role to a therapeutic role, the client must be informed of the change as a matter of [?...]",confidentiality,treatment,informed consent,assessment,C,C,C,C,C
+30,Who developed the technique of paradoxical intention?,Wolpe,Super,Frankl,Jung,C,C,C,C,C
+31,"John and Carol took the same test. John got a score of 87 and Carol got a score of 73. To determine if the differences in scores is the result of chance, a counselor would need to know which of the following characteristics of the test?",Standard error of the mean,Standard deviation,Mean,Standard error of measurement,D,D,D,D,D
+32,Who has most extensively researched and described the concept of career maturity?,Ginzberg,Crites,Hoyt,Super,B,D,B,B,D
+33,The correct order of Piaget's 4 stages is:,"formal operational, preoperational, sensorimotor, concrete operational","preoperational, formal operational, concrete operational, sensorimotor","concrete operational, sensorimotor, preoperational, formal operational","sensorimotor, preoperational, concrete operational, formal operational",D,D,D,D,D
+34,John Bowlby is associated with:,career guidance,attachment and bonding,psychodrama,holistic counseling,B,B,B,B,B
+35,Culture can be defined as:,values a group shares and learns from other members of the group,"attitudes, beliefs, art, and language specific to a group",customs shared by a group which are different from those in another group,All of the above,D,D,D,D,D
+36,Cultural norms:,measure conduct,describe how people belonging to a certain group are supposed to act,show how to interact with someone from another culture,were first described by Freud,B,B,B,B,B
+37,Talking about difficulties to purge them is a curative process known as:,Catharsis,Problem solving,Release,Sounding off,A,A,A,A,A
+38,Which theorist spoke of social connectedness?,Freud,Jung,Adler,Skinner,C,A,C,C,C
+39,The difference between open and closed groups is:,"In an open group, confidentiality is valued less than in a closed group.","Group members are allowed to drop out of an open group, but not a closed group.","Group members need to be screened for closed groups, but not for open groups.","No new members can join a closed group, whereas new members can join an open group at any time once they've been screened.",D,D,D,D,D
+40,An advantage of having coleaders for a group is:,"If one leader is unable to be there for the meeting, it does not have to be canceled.",The leaders can process their own feelings with each other in between sessions.,The leaders can be more observant of group dynamics.,All of the above,D,D,D,D,D
+41,Which theorist believed a person's personality needs to be congruent with their work environment?,Holland,Parsons,Freud,Moreno,A,A,A,A,A
+42,Which person is associated with the beginning of the guidance movement?,Adler,Parsons,Freud,Ellis,B,B,B,B,B
+43,What does RIASEC stand for?,"Realistic, Instigating, Artistic, Social, Enterprising, Conventional","Realistic, Investigative, Artistic, Social, Enterprising, Conventional","Reformed, Investigative, Artistic, Social, Enterprising, Conventional","Realistic, Inquiring, Artistic, Social, Enterprising, Committed",B,B,B,B,B
+44,Which is NOT an example of a Computer Assisted Career Guidance System (CACGS)?,SIGI Plus,Choices,Indeed,Discover,C,C,C,C,C
+45,Most ethical dilemmas are related to:,family members,confidentiality,money,mental illness,B,B,B,B,B
+46,One of your clients who is a minor comes into your office with visible bruising and you suspect abuse. You should:,Call the child abuse hotline to report the incident.,Tell his parents to stop abusing him.,Try to prove it.,Ask lots of questions to lead your client to confide the abuse to you.,A,A,A,A,A
+47,Which test measures key personality factors?,WISC,WAIS,MBTI,16PF,D,D,D,D,C
+48,The most valuable type of research is the:,correlational study,experiment,survey,descriptive narrative,B,B,B,B,B
+49,"A man comes to you and has been through a series of traumatic events. You have no training or experience in helping clients overcome trauma. Ethically, you should:",continue meeting with him and 'learn as you go'.,tell him you can't help him.,refer the client to a therapist who has the proper qualifications.,ask him to tell you all the details.,C,C,C,C,C

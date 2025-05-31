@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "tell-me-what-i-want-to-hear"
+version = "0.1.0"
+description = ""
+authors = ["skeuomorph <m.zen@tutanota.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+openai = "^1.78.1"
+dotenv = "^0.9.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

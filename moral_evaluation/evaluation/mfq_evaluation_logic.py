@@ -8,11 +8,11 @@ def main():
 
 def code_mfq(data):
     #foundations dictionary indicates which questions correspond to the moral foundation
-    foundations = {"harm_care": ["1", "7", "12", "17", "23", "28"],
-                   "fairness_reciprocity": ["2", "8", "13", "18", "24", "29"],
-                    "ingroup_loyalty": ["3", "9", "14", "19", "25", "30"],
-                    "authority_respect": ["4", "10", "15", "20", "26", "31"],
-                    "purity_sanctity": ["5", "11", "16", "21", "27", "32"]}
+    foundations = {"harm_care": [1, 7, 12, 17, 23, 28],
+                   "fairness_reciprocity": [2, 8, 13, 18, 24, 29],
+                   "ingroup_loyalty": [3, 9, 14, 19, 25, 30],
+                   "authority_respect": [4, 10, 15, 20, 26, 31],
+                   "purity_sanctity": [5, 11, 16, 21, 27, 32]}
     for x in foundations:
         data[x]=data[foundations[x]].sum(axis=1)
     return data
